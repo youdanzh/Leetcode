@@ -7,3 +7,4 @@ next greater prevgreater;
 思路: 2d dp: 判断i-1 和j-1是否能组成s3.charAt(i+j-1);
 1d dp[0] 判断s1 s3 然后一样.
 - 1696 dp+slidingwindow 
+- 84 非常典型的单调栈问题
