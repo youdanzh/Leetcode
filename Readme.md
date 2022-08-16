@@ -1,10 +1,9 @@
 # Leetcode List
 
-- 2281
-思路: 求prefix sum; 
-next greater prevgreater;
-- 097 
-思路: 2d dp: 判断i-1 和j-1是否能组成s3.charAt(i+j-1);
-1d dp[0] 判断s1 s3 然后一样.
-- 1696 dp+slidingwindow 
-- 84 非常典型的单调栈问题
+## Binary Search
+### 标准二分查找
+
+### [左右边界查找](https://github.com/youdanzh/Leetcode/blob/main/BinarySearch/left_right_bound.java)
+#### 034. 左右边界查找 
+### 查找极值
+### Search by Value
