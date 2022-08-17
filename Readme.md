@@ -14,7 +14,7 @@
 [033. Rotated Sorted Array](https://github.com/youdanzh/Leetcode/blob/main/BinarySearch/LCproblems/033.Search%20in%20Rotated%20Sorted%20Array.java) 
 
 [153. Find Minimum in Rotated Sorted Array](https://github.com/youdanzh/Leetcode/blob/main/BinarySearch/LCproblems/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.java)
-[154. Find Minimum in Rotated Sorted Array II]()
+[154. Find Minimum in Rotated Sorted Array II](https://github.com/youdanzh/Leetcode/blob/main/BinarySearch/LCproblems/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.java)
 ### Matrix
 [074.Search a 2D Matrix](https://github.com/youdanzh/Leetcode/blob/main/BinarySearch/LCproblems/074.Search%20a%202D%20matrix.java)
 ### find Kth 
