@@ -1,14 +1,12 @@
-int twoSumSmaller(int[] nums, int startIndex, int target) {
-        int sum = 0;
-        int left = startIndex;
-        int right = nums.length - 1;
-        while (left < right) {
-            if (nums[left] + nums[right] < target) {
-                sum += right - left;
-                left++;
-            } else {
-                right--;
-            }
+
+    public int[] twoSum(int[] nums, int target) {
+        int l = 0 , r = nums.length-1;
+        Arrays.sort(nums);
+        while(l<r){
+            int sum =nums[l]+nums[r];
+            if(sum<target) l++;
+            if(sum>target) r--;
+            else if(sum == target) return new int[]{nums[l],nums[r]};
         }
-        return sum;
+        return new int[]{};
     }
