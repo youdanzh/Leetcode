@@ -6,11 +6,13 @@
 [240. Search a 2D Matrix II](https://github.com/youdanzh/Leetcode/blob/main/TwoPointers/LCproblems/240.%20Search%20a%202D%20Matrix%20II.java)
 
 #### [n数之和问题](https://github.com/youdanzh/Leetcode/blob/main/TwoPointers/two_sum_template.java)
-[015.3Sum](https://github.com/youdanzh/Leetcode/blob/main/TwoPointers/LCproblems/015.3Sum.java)
+[015. 3Sum](https://github.com/youdanzh/Leetcode/blob/main/TwoPointers/LCproblems/015.3Sum.java)
 
-[016.3Sum Closest](https://github.com/youdanzh/Leetcode/blob/main/TwoPointers/LCproblems/016.3Sum%20closest.java)
+[016. 3Sum Closest](https://github.com/youdanzh/Leetcode/blob/main/TwoPointers/LCproblems/016.3Sum%20closest.java)
 
-[259.3Sum Smaller](https://github.com/youdanzh/Leetcode/blob/main/TwoPointers/LCproblems/259.3Sum%20Smaller.java)
+[259. 3Sum Smaller](https://github.com/youdanzh/Leetcode/blob/main/TwoPointers/LCproblems/259.3Sum%20Smaller.java)
+
+[1099. Two Sum Less Than K](https://github.com/youdanzh/Leetcode/tree/main/TwoPointers/LCproblems)
 
 ### [快慢针](https://github.com/youdanzh/Leetcode/blob/main/TwoPointers/Fast_slow.java)
 
@@ -28,9 +30,9 @@
 
 [154. Find Minimum in Rotated Sorted Array II](https://github.com/youdanzh/Leetcode/blob/main/BinarySearch/LCproblems/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.java)
 
-[162.Find Peak Element](https://github.com/youdanzh/Leetcode/blob/main/BinarySearch/LCproblems/162.%20Find%20Peak%20Element.java)
+[162. Find Peak Element](https://github.com/youdanzh/Leetcode/blob/main/BinarySearch/LCproblems/162.%20Find%20Peak%20Element.java)
 ### Matrix
-[074.Search a 2D Matrix](https://github.com/youdanzh/Leetcode/blob/main/BinarySearch/LCproblems/074.Search%20a%202D%20matrix.java)
+[074. Search a 2D Matrix](https://github.com/youdanzh/Leetcode/blob/main/BinarySearch/LCproblems/074.Search%20a%202D%20matrix.java)
 ### find Kth 
 
 ### Search by Value
