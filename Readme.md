@@ -11,6 +11,8 @@
 ### [左右边界查找](https://github.com/youdanzh/Leetcode/blob/main/BinarySearch/left_right_bound_template.java)
 [034. Find First and Last Position of Element in Sorted Array](https://github.com/youdanzh/Leetcode/blob/main/BinarySearch/LCproblems/034.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java)
 ### find peak element/Rotated Sorted Array
+-这类题最重要的是寻找峰值/断崖的位置. 用mid 和mid+1 或者左右边界比较, 判断应该收敛哪个边界.
+
 [033. Rotated Sorted Array](https://github.com/youdanzh/Leetcode/blob/main/BinarySearch/LCproblems/033.Search%20in%20Rotated%20Sorted%20Array.java) 
 
 [153. Find Minimum in Rotated Sorted Array](https://github.com/youdanzh/Leetcode/blob/main/BinarySearch/LCproblems/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.java)
