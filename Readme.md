@@ -5,7 +5,7 @@
 
 [240. Search a 2D Matrix II](https://github.com/youdanzh/Leetcode/blob/main/TwoPointers/LCproblems/240.%20Search%20a%202D%20Matrix%20II.java)
 
-#### n数之和问题
+#### [n数之和问题](https://github.com/youdanzh/Leetcode/blob/main/TwoPointers/two_sum_template.java)
 [015.3Sum](https://github.com/youdanzh/Leetcode/blob/main/TwoPointers/LCproblems/015.3Sum.java)
 
 [016.3Sum Closest](https://github.com/youdanzh/Leetcode/blob/main/TwoPointers/LCproblems/016.3Sum%20closest.java)
