@@ -38,3 +38,6 @@
 ### find Kth 
 
 ### Search by Value
+
+## Greedy Approach
+#[1338. Reduce Array Size to The Half](https://github.com/youdanzh/Leetcode/blob/main/Greedy/1338.%20Reduce%20Array%20Size%20to%20The%20Half.java)
