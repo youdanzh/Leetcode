@@ -18,7 +18,7 @@
 ### 链表双指针
 [1836. Remove Duplicates From an Unsorted Linked List](https://github.com/youdanzh/Leetcode/blob/main/TwoPointers/LCproblems/1836.%20Remove%20Duplicates%20From%20an%20Unsorted%20Linked%20List.java)
 #### [快慢针](https://github.com/youdanzh/Leetcode/blob/main/TwoPointers/Fast_slow.java)
-[82. Remove Duplicates from Sorted List II]()
+[82. Remove Duplicates from Sorted List II](https://github.com/youdanzh/Leetcode/blob/main/TwoPointers/LCproblems/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.java)
 ### 滑动窗口
 ## Binary Search
 ### [左右边界查找](https://github.com/youdanzh/Leetcode/blob/main/BinarySearch/left_right_bound_template.java)
