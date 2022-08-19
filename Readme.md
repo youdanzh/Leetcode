@@ -16,7 +16,7 @@
 
 [1099. Two Sum Less Than K](https://github.com/youdanzh/Leetcode/blob/main/TwoPointers/LCproblems/1099.%20Two%20Sum%20Less%20Than%20K.java)
 ### 链表双指针
-[1836. Remove Duplicates From an Unsorted Linked List](https://github.com/youdanzh/Leetcode/blob/main/TwoPointers/1836.%20Remove%20Duplicates%20From%20an%20Unsorted%20Linked%20List.java)
+[1836. Remove Duplicates From an Unsorted Linked List](https://github.com/youdanzh/Leetcode/blob/main/TwoPointers/LCproblems/1836.%20Remove%20Duplicates%20From%20an%20Unsorted%20Linked%20List.java)
 #### [快慢针](https://github.com/youdanzh/Leetcode/blob/main/TwoPointers/Fast_slow.java)
 [82. Remove Duplicates from Sorted List II]()
 ### 滑动窗口
