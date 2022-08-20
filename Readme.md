@@ -41,4 +41,6 @@
 ### Search by Value
 
 ## Greedy Approach
+[871. Minimum Number of Refueling Stops](https://github.com/youdanzh/Leetcode/blob/main/Greedy/871.%20Minimum%20Number%20of%20Refueling%20Stops.java)
 [1338. Reduce Array Size to The Half](https://github.com/youdanzh/Leetcode/blob/main/Greedy/1338.%20Reduce%20Array%20Size%20to%20The%20Half.java)
+
