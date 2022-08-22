@@ -24,7 +24,10 @@
 ### [滑动窗口](https://github.com/youdanzh/Leetcode/blob/main/TwoPointers/LCproblems/438.%20Find%20All%20Anagrams%20in%20a%20String.java)
 [438. Find All Anagrams in a String](https://github.com/youdanzh/Leetcode/blob/main/TwoPointers/LCproblems/438.%20Find%20All%20Anagrams%20in%20a%20String.java)典型模板题
 
-[713. Subarray Product Less Than K](https://github.com/youdanzh/Leetcode/blob/main/TwoPointers/LCproblems/713.%20Subarray%20Product%20Less%20Than%20K.java) 如何维护窗口的左右边界,非模板题.
+[209. Minimum Size Subarray Sum](https://github.com/youdanzh/Leetcode/blob/main/TwoPointers/LCproblems/209.%20Minimum%20Size%20Subarray%20Sum.java)维护窗口的和 同713
+
+[713. Subarray Product Less Than K](https://github.com/youdanzh/Leetcode/blob/main/TwoPointers/LCproblems/713.%20Subarray%20Product%20Less%20Than%20K.java)
+维护窗口的乘积
 ## Binary Search
 ### [左右边界查找](https://github.com/youdanzh/Leetcode/blob/main/BinarySearch/left_right_bound_template.java)
 [034. Find First and Last Position of Element in Sorted Array](https://github.com/youdanzh/Leetcode/blob/main/BinarySearch/LCproblems/034.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java)
