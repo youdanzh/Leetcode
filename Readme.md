@@ -59,6 +59,7 @@
 #### Backtracking(排列组合问题)
 
 ### Union Find
+[547. Number of Provinces(Union Find)](https://github.com/youdanzh/Leetcode/blob/main/Graph/UnionFind/547.%20Number%20of%20Provinces(Union).java)
 ### 拓扑排序
 
 ## Greedy Approach
