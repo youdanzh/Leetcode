@@ -79,6 +79,8 @@
 
 [78.Subsets](https://github.com/youdanzh/Leetcode/blob/main/Graph/DFS/78.%20Subsets(backtracking).java)
 
+[79. Word Search](https://github.com/youdanzh/Leetcode/blob/main/Graph/DFS/79.%20Word%20Search(backtracking).java)
+
 [90.Subsets II](https://github.com/youdanzh/Leetcode/blob/main/Graph/DFS/90.%20Subset%20II(backtracking).java)
 
 [797. All Paths From Source to Target](https://github.com/youdanzh/Leetcode/blob/main/Graph/DFS/797.%20All%20Paths%20From%20Source%20to%20Target(backtracking).java)
