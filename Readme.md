@@ -99,7 +99,10 @@
 
 ## Dynamic Programming
 [5. Longest Palindromic Substring](https://github.com/youdanzh/Leetcode/blob/main/DP/5.%20Longest%20Palindromic%20Substring.java) 从中心扩散判断最长子串
+
 [62.Unique Path](https://github.com/youdanzh/Leetcode/blob/main/DP/62.%20Unique%20Path.java)
+
+[413. Arithmetic Slices](https://github.com/youdanzh/Leetcode/blob/main/DP/413.%20Arithmetic%20Slices)
 ### 打劫问题
 [198. House Robber](https://github.com/youdanzh/Leetcode/blob/main/DP/198.%20House%20Robber.java)
 
