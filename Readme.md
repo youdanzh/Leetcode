@@ -117,6 +117,8 @@
 [413. Arithmetic Slices](https://github.com/youdanzh/Leetcode/blob/main/DP/413.%20Arithmetic%20Slices)
 
 [673. Number of Longest Increasing Subsequence](https://github.com/youdanzh/Leetcode/blob/main/DP/673.%20Number%20of%20Longest%20Increasing%20Subsequence.java)参考300 题
+
+[1143. Longest Common Subsequence](https://github.com/youdanzh/Leetcode/blob/main/DP/1143.%20Longest%20Common%20Subsequence.java)
 ### 打劫问题
 [198. House Robber](https://github.com/youdanzh/Leetcode/blob/main/DP/198.%20House%20Robber.java)
 
