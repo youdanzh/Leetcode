@@ -106,6 +106,8 @@
 
 [62.Unique Path](https://github.com/youdanzh/Leetcode/blob/main/DP/62.%20Unique%20Path.java)
 
+[91. Decode Ways](https://github.com/youdanzh/Leetcode/blob/main/DP/91.%20Decode%20Ways.java)
+
 [413. Arithmetic Slices](https://github.com/youdanzh/Leetcode/blob/main/DP/413.%20Arithmetic%20Slices)
 ### 打劫问题
 [198. House Robber](https://github.com/youdanzh/Leetcode/blob/main/DP/198.%20House%20Robber.java)
