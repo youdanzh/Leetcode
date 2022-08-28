@@ -63,6 +63,8 @@
 547. Number of Provinces
     -[DFS](https://github.com/youdanzh/Leetcode/blob/main/Graph/DFS/547.%20Number%20of%20Provinces(DFS).java)
     -[BFS](https://github.com/youdanzh/Leetcode/blob/main/Graph/BFS/547.%20Number%20of%20Provinces(BFS).java)
+    
+[139. Word Break(BFS)](https://github.com/youdanzh/Leetcode/blob/main/Graph/BFS/139.Word%20Break(BFS).java)
 #### 岛屿问题
 
 [130. Surrounded Regions](https://github.com/youdanzh/Leetcode/blob/main/Graph/DFS/130.%20Surrounded%20Regions(DFS).java)
@@ -107,6 +109,8 @@
 [62.Unique Path](https://github.com/youdanzh/Leetcode/blob/main/DP/62.%20Unique%20Path.java)
 
 [91. Decode Ways](https://github.com/youdanzh/Leetcode/blob/main/DP/91.%20Decode%20Ways.java)
+
+[139. Word Break](https://github.com/youdanzh/Leetcode/blob/main/DP/139.Word%20Break.java)
 
 [413. Arithmetic Slices](https://github.com/youdanzh/Leetcode/blob/main/DP/413.%20Arithmetic%20Slices)
 ### 打劫问题
