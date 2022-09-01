@@ -77,7 +77,9 @@
 417. Pacific Atlantic Water Flow 这题很典型的岛屿问题变式
     -[BFS](https://github.com/youdanzh/Leetcode/blob/main/Graph/BFS/417.%20Pacific%20Atlantic%20Water%20Flow(BFS).java)
 #### 二叉树
-[117. Populating Next Right Pointers in Each Node II](https://github.com/youdanzh/Leetcode/blob/main/Graph/BFS/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.java) 层序遍历
+[117. Populating Next Right Pointers in Each Node II](https://github.com/youdanzh/Leetcode/blob/main/Graph/BFS/BinaryTree/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.java) 层序遍历
+
+[1448. Count Good Nodes in Binary Tree](https://github.com/youdanzh/Leetcode/blob/main/Graph/DFS/BinaryTree/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree)
 #### DFS+memo
 
 #### Backtracking(排列组合问题)
