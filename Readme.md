@@ -109,6 +109,11 @@
 [547. Number of Provinces(Union Find)](https://github.com/youdanzh/Leetcode/blob/main/Graph/UnionFind/547.%20Number%20of%20Provinces(Union).java)
 ### 拓扑排序
 
+## Heap
+[215. Kth Largest Element in an Array](https://github.com/youdanzh/Leetcode/blob/main/Heap/215.%20Kth%20Largest%20Element%20in%20an%20Array.java)
+
+[253. Meeting Rooms II.](https://github.com/youdanzh/Leetcode/blob/main/Heap/253.%20Meeting%20Rooms%20II.java)
+
 ## Dynamic Programming
 [5. Longest Palindromic Substring](https://github.com/youdanzh/Leetcode/blob/main/DP/5.%20Longest%20Palindromic%20Substring.java) 从中心扩散判断最长子串
 
@@ -117,6 +122,8 @@
 [91. Decode Ways](https://github.com/youdanzh/Leetcode/blob/main/DP/91.%20Decode%20Ways.java)
 
 [139. Word Break](https://github.com/youdanzh/Leetcode/blob/main/DP/139.Word%20Break.java)
+
+[264. Ugly Number II](https://github.com/youdanzh/Leetcode/blob/main/DP/264.%20Ugly%20Number%20II.java) 很有意思的思维方式,按照链表思考dp. 2,3,5 的指针.
 
 [300. Longest Increasing Subsequence](https://github.com/youdanzh/Leetcode/blob/main/DP/300.%20Longest%20Increasing%20Subsequence.java)
 
