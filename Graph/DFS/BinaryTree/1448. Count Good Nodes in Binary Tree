@@ -1,0 +1,18 @@
+class Solution {
+    int count;
+    public int goodNodes(TreeNode root) {
+
+        dfs(root,root.val);
+        return count;
+        
+    }
+    void dfs(TreeNode root,int max){
+        if(root == null) return;
+        if(max<= root.val) {
+            count++;
+        }
+        max = Math.max(root.val,max);
+        dfs(root.left,max);
+        dfs(root.right,max);
+    }
+}
