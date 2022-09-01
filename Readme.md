@@ -139,3 +139,5 @@
 
 [1338. Reduce Array Size to The Half](https://github.com/youdanzh/Leetcode/blob/main/Greedy/1338.%20Reduce%20Array%20Size%20to%20The%20Half.java)
 
+## Other
+[149. Max Points on a Line](https://github.com/youdanzh/Leetcode/blob/main/Other/149.%20Max%20Points%20on%20a%20Line.java)
