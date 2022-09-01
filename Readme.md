@@ -74,13 +74,16 @@
     -[BFS](https://github.com/youdanzh/Leetcode/blob/main/Graph/BFS/200.%20Number%20of%20Islands(BFS).java)
     
 [1905. Count Sub Islands](https://github.com/youdanzh/Leetcode/blob/main/Graph/DFS/1905.%20Count%20Sub%20Islands(DFS).java)
+
 417. Pacific Atlantic Water Flow 这题很典型的岛屿问题变式
     -[BFS](https://github.com/youdanzh/Leetcode/blob/main/Graph/BFS/417.%20Pacific%20Atlantic%20Water%20Flow(BFS).java)
 #### 二叉树
 [117. Populating Next Right Pointers in Each Node II](https://github.com/youdanzh/Leetcode/blob/main/Graph/BFS/BinaryTree/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.java) 层序遍历
 
 [1448. Count Good Nodes in Binary Tree](https://github.com/youdanzh/Leetcode/blob/main/Graph/DFS/BinaryTree/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree)
-#### DFS+memo
+
+[1530. Number of Good Leaf Nodes Pairs](https://github.com/youdanzh/Leetcode/tree/main/Graph/DFS/BinaryTree) 这题很有意思 dfs return 一个int array
+
 
 #### Backtracking(排列组合问题)
 [17. Letter Combinations of a Phone Number](https://github.com/youdanzh/Leetcode/blob/main/Graph/DFS/17.%20Letter%20Combinations%20of%20a%20Phone%20Number(backtracking).java)
