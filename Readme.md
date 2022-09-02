@@ -52,7 +52,9 @@
 [1329. Sort the Matrix Diagonally](https://github.com/youdanzh/Leetcode/blob/main/Sorting/1329.%20Sort%20the%20Matrix%20Diagonally.java) 用PQ排序对角线
 
 ### Prefix Sum
+
 #### Array
+[370. Range Addition](https://github.com/youdanzh/Leetcode/blob/main/Prefix%20Sum/Arrays/370.%20Range%20Addition.java)
 #### [Matrix](https://github.com/youdanzh/Leetcode/blob/main/Prefix%20Sum/Matrix/preSumMatrix.java)
 [363. Max Sum of Rectangle No Larger Than K](https://github.com/youdanzh/Leetcode/blob/main/Prefix%20Sum/Matrix/363.%20Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K.java)
 
@@ -145,11 +147,14 @@
 
 
 ## Greedy Approach
+[910. Smallest Range II](https://github.com/youdanzh/Leetcode/blob/main/Greedy/307.%20Smallest%20Range%20II.java)
+
 [659. Split Array into Consecutive Subsequences*](https://github.com/youdanzh/Leetcode/blob/main/Greedy/659.%20Split%20Array%20into%20Consecutive%20Subsequences*.java) HashMap+Greedy
 
 [871. Minimum Number of Refueling Stops](https://github.com/youdanzh/Leetcode/blob/main/Greedy/871.%20Minimum%20Number%20of%20Refueling%20Stops.java)
 
 [1338. Reduce Array Size to The Half](https://github.com/youdanzh/Leetcode/blob/main/Greedy/1338.%20Reduce%20Array%20Size%20to%20The%20Half.java)
-
+## [Mono Stack](https://github.com/youdanzh/Leetcode/blob/main/Mono%20stack/monostack.java)
+[503. Next Greater Element II](https://github.com/youdanzh/Leetcode/blob/main/Mono%20stack/503.%20Next%20Greater%20Element%20II.java) 用二次循环解决首尾相接数组问题
 ## Other
 [149. Max Points on a Line](https://github.com/youdanzh/Leetcode/blob/main/Other/149.%20Max%20Points%20on%20a%20Line.java)
